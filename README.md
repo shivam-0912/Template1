@@ -9,4 +9,4 @@ I made this when I am leaning HTML and CSS.
 - CSS3
 
 **To view the template visit** : http://random0912.000webhostapp.com/template1/</br></br>
-**To view locally** : <ul><li>Clone this repository</li><li>Open index.html</li></ul>
+**To view locally** : <ul><li>Clone this repository</li><li>Open **index.html**</li></ul>
